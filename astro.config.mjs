@@ -27,6 +27,22 @@ export default defineConfig({
 						{ label: 'InDOC', slug: 'docs/insuite/indoc' },
 					],
 				},
+				{
+					label: 'Tabstacker',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Tabstacker', slug: 'docs/tabstacker/tabstacker' }
+					],
+				},
+				{
+					label: 'InledAI',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Acceso', slug: 'docs/ai/acceso' },
+						{ label: 'Personalización IA', slug: 'docs/ai/personalizacion' },
+						{ label: 'Chat público', slug: 'docs/ai/chat' },
+					],
+				},
 
 				{
 					label: 'Preguntas y respuestas',

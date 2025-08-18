@@ -1,6 +1,6 @@
 ---
-title: Tabstacker: guarda grupos de pestañas
-description: Agrupador de pestañas
+title: "Tabstacker: guarda grupos de pestañas"
+description: "Agrupador de pestañas"
 ---
 
 # Tabstacker: un guardapestañas personal  
